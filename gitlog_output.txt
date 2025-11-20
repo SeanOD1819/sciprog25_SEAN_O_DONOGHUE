@@ -1,0 +1,95 @@
+commit 16c4c459a02c2cff31d08bd71199c85d5c246a18
+Author: Sean O Donoghue <120376791@umail.ucc.ie>
+Date:   Thu Nov 20 14:04:30 2025 +0000
+
+    adding practical09 folder to master
+
+commit 007eb96dec1ef1b20d077f40232d2c180b07f98a
+Author: Sean O Donoghue <120376791@umail.ucc.ie>
+Date:   Thu Nov 20 14:03:58 2025 +0000
+
+    adding practical08 folder to master
+
+commit c4975a45d57896aaf2c7ae435982dc7cd2bc4569
+Author: Sean O Donoghue <120376791@umail.ucc.ie>
+Date:   Thu Nov 20 14:03:30 2025 +0000
+
+    adding practical07 folder to master branch
+
+commit d49d568e8be81c888800170cf4edc7d2a37145d5
+Author: Sean O Donoghue <120376791@umail.ucc.ie>
+Date:   Thu Nov 20 14:02:54 2025 +0000
+
+    adding practical06 folder to master
+
+commit 2c8808d3624cb142cd2730ad710e0e7b3c40f543
+Author: Sean O Donoghue <120376791@umail.ucc.ie>
+Date:   Thu Nov 20 14:02:20 2025 +0000
+
+    adding practical05 folder to master
+
+commit 58a19bb364de3e08db3d1803b5d027409c3987fa
+Author: Sean O Donoghue <120376791@umail.ucc.ie>
+Date:   Thu Nov 20 14:01:02 2025 +0000
+
+    adding practical04 folder to master branch
+
+commit 7fa4e2659c2790736338d4dd2b9ec56827414b06
+Author: Sean O Donoghue <120376791@umail.ucc.ie>
+Date:   Thu Nov 20 14:00:30 2025 +0000
+
+    adding practical03 folder to master branch
+
+commit c179ba88b1f297b019e35f9bfdcdba0d8903c789
+Author: Sean O Donoghue <120376791@umail.ucc.ie>
+Date:   Thu Nov 20 13:56:05 2025 +0000
+
+    adding practical02 folder to master branch from practical02 branch
+
+commit 0044224a478df8389582feff57703cfe1f81c587
+Author: Sean O Donoghue <120376791@umail.ucc.ie>
+Date:   Mon Nov 3 17:31:52 2025 +0000
+
+    remove practical08_f
+
+commit 06a27fd3355a6aa57d1e53d82f8beeedf25fd33f
+Author: Sean O Donoghue <120376791@umail.ucc.ie>
+Date:   Mon Nov 3 17:27:04 2025 +0000
+
+    adding files for practical08_f
+
+commit 325d1cc2d739d1dc63bf473ba954fa9b7b0e8b0c
+Author: Sean O Donoghue <120376791@umail.ucc.ie>
+Date:   Tue Oct 7 15:12:43 2025 +0100
+
+    Cleaning again. Issues arising with merging branches
+
+commit e478c37f3dbc1a272ac5a1e7f3a29df723f2afc0
+Author: Sean O Donoghue <120376791@umail.ucc.ie>
+Date:   Tue Oct 7 14:54:58 2025 +0100
+
+    Adding files for practical02
+
+commit 72b95bec539dfeaaaff1fec6a4010ba16a45b597
+Author: Sean O Donoghue <120376791@umail.ucc.ie>
+Date:   Tue Oct 7 14:43:51 2025 +0100
+
+    Cleaning files. Messed up uploads so starting again
+
+commit 49d868594db6ce3d3bfa73163dab09ca663b267f
+Author: Sean O Donoghue <120376791@umail.ucc.ie>
+Date:   Tue Oct 7 14:32:00 2025 +0100
+
+    Add practical03 files
+
+commit 9e62f9bc713940fdc8104bcb9906211343455d1b
+Author: Sean O Donoghue <120376791@umail.ucc.ie>
+Date:   Tue Oct 7 12:17:41 2025 +0100
+
+    Add Practical02 Code
+
+commit 852879e045a34da745dad1e2e76d05848baa44ef
+Author: Sean O Donoghue <120376791@umail.ucc.ie>
+Date:   Mon Oct 6 17:38:44 2025 +0100
+
+    Add Introduction README to Git Assignment
